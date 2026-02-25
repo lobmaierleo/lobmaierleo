@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @lobmaierleo
-- 📫 How to reach me ... leo.lobmaier@htl-wels.at
+- 📫 How to reach me ... leo.lobmaier@icloud.com
 
 <!---
 lobmaierleo/lobmaierleo is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
