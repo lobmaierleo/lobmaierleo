@@ -8,8 +8,7 @@ HTL Wels graduate (2026), based in Upper Austria.
 
 **Java** is my strongest language — five years of it, from data structures to JDBC. These days
 I mostly ship mobile and web apps in **TypeScript** and build the **Python** data pipelines that
-feed them. I like projects where the data is real and messy, and where the interface has an
-opinion.
+feed them. 
 
 **Open to junior developer roles and internships** — Upper Austria or remote.
 
