@@ -28,26 +28,14 @@ feed them.
 
 ### What I build
 
-#### [NoNeed4AI](https://github.com/lobmaierleo/AI_Slop_HQ_Hackathon) &nbsp;·&nbsp; `Expo` `React Native` `TypeScript` `Python`
+#### [MotionGuide](https://motionguide.tech) &nbsp;·&nbsp; `Expo` `React Native` `TypeScript` `Skia`
 
-A native iOS app built at the **Ars Electronica AI Hackathon** (Linz, September 2026) that walks
-you through the city and shows where the AI gets it wrong. At every location, a language model's
-confident claim sits next to the city's official open-data record — the model insists there's no
-drinking fountain on Hauptplatz; the Linz water registry lists outlet TB74 at that exact spot. You
-walk there and see who was right.
+A mobile app for sports physiotherapists and their athletes. Physios build rehab and prehab
+plans; athletes train at home while **on-device pose detection** tracks their movement and coaches
+them with spoken feedback in German. Next to the app: a web dashboard for physios and the
+backend behind both.
 
-23 quests, 886 festival projects and 23 Linz open-data sets behind it. Every model answer is
-precomputed, so the app makes zero inference calls at runtime and works fully offline.
-
-#### [landing-pages-ooe](https://github.com/lobmaierleo/landing-pages-ooe) &nbsp;·&nbsp; `HTML` `CSS` `JavaScript` `Python`
-
-Landing pages for several clients on one shared design system, built to deploy on Vercel —
-including the unglamorous parts real sites need: sitemap, robots.txt, Impressum, Datenschutz.
-
-#### [SkillOverview](https://github.com/lobmaierleo/SkillOverview) &nbsp;·&nbsp; `TypeScript`
-
-A local web app for discovering and browsing the skills available to AI coding tools — built
-because I got tired of not knowing what was actually installed.
+**[→ motionguide.tech](https://motionguide.tech)**
 
 ---
 
