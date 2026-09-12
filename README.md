@@ -4,7 +4,8 @@
   <img alt="Leo Lobmaier — Software Developer — Java, TypeScript, Python" src="https://raw.githubusercontent.com/lobmaierleo/lobmaierleo/main/assets/banner-light.svg" width="100%">
 </picture>
 
-HTL Wels graduate (2026), based in Upper Austria.
+HTL Wels graduate (2026), based in Upper Austria. My diploma thesis, **Query Engine**, was built
+in cooperation with **[Infoniqa](https://www.infoniqa.com)** and received the top grade (1 — *Sehr gut*).
 
 **Java** is my strongest language — five years of it, from data structures to JDBC. These days
 I mostly ship mobile and web apps in **TypeScript** and build the **Python** data pipelines that
